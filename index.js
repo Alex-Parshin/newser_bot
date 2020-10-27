@@ -33,12 +33,18 @@ const server = app.listen(PORT, function() {
 app.use(express.static("public"));
 app.use('/static', express.static(path.join(__dirname, 'public')))
 
+global.customQuery = {
+    status: false,
+    message: '',
+    engine: 0
+}
+
 // Socket setup
 const io = socket(server);
 
 // New instance of Run class with io parameter
 const run = new Run(io)
-run.run()
+run.mainQueue()
 
 io.on('connect', socket => {
     socket.emit('message', {
@@ -60,8 +66,10 @@ io.on('connect', socket => {
     socket.on('search_query', (query) => {
         run.search(query.substring(2, query.length))
     })
-    socket.on('captcha', () => {
-        run.captcha()
+    socket.on('search', ({ query, engine }) => {
+        global.customQuery.status = true
+        global.customQuery.message = query
+        global.customQuery.engine = Number(engine)
     })
 });
 

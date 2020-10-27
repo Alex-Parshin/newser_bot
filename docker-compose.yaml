@@ -1,0 +1,8 @@
+test:
+    image: newser_server
+    container_name: server_newser
+    restart: unless-stopped
+    volumes:
+        - "/srv/logs/newser_server:/usr/src/app/data/logs"
+    ports:
+        - "4000:4000"

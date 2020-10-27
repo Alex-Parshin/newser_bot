@@ -56,7 +56,7 @@
                     "art": "div.xrnccd",
                     "title": "div.xrnccd > article > h3",
                     "href": "div.xrnccd > article > h3 > a",
-                    "date": "div > div > article > div > div > time",
+                    "date": "div.xrnccd > div > article > div > div > time",
                     "desc": "div.xrnccd > article > h3",
                     "agency": "div.xrnccd > article > div > div > a",
                     "img_agn": "https://ssl.gstatic.com/gnews/logo/google_news_192.png"
