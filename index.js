@@ -56,8 +56,9 @@ io.on('connect', socket => {
 
     BOT_STATUS = 'connected'
 
-    socket.on('startBot', () => {
-        run.start()
+    socket.on('startBot', ({pages, source, url, engines}) => {
+        if (url === "") url = 'http://10.19.19.4:1680/admin/give_search_query'
+        run.start(pages, source, url, engines)
         BOT_STATUS = 'working'
     })
     socket.on('stopBot', () => {
