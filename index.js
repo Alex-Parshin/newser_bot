@@ -10,9 +10,10 @@ const fs = require('fs')
 require('dotenv').config();
 
 // Custom modules
-const Run = require('./lib/core/run.js')
+const Lifecycle = require('./lib/core/lifecycle')
 const config = require('./lib/data/configuration1.json')
-    // Global vars
+const router = require('./router')
+// Global vars
 var BOT_STATUS = 'off'
 
 // App setup
@@ -33,18 +34,14 @@ const server = app.listen(PORT, function() {
 app.use(express.static("public"));
 app.use('/static', express.static(path.join(__dirname, 'public')))
 
-global.customQuery = {
-    status: false,
-    message: '',
-    engine: 0
-}
+app.use('/', router)
 
 // Socket setup
 const io = socket(server);
 
-// New instance of Run class with io parameter
-const run = new Run(io)
-run.mainQueue()
+// New instance of Lifecycle class with io parameter
+const lifecycle = new Lifecycle(io)
+lifecycle.mainQueue()
 
 io.on('connect', socket => {
     socket.emit('message', {
@@ -56,21 +53,14 @@ io.on('connect', socket => {
 
     BOT_STATUS = 'connected'
 
-    socket.on('startBot', ({ pages, source, url, engines }) => {
+    socket.on('startBot', ({ source, query, id_request, pages, url, engines }) => {
         if (url === "") url = process.env.QUERY_URL
-        run.start(pages, source, url, engines)
+        
+        lifecycle.start(source, query, id_request, pages, url, engines)
         BOT_STATUS = 'working'
     })
     socket.on('stopBot', () => {
-        run.stop()
-    })
-    socket.on('search_query', (query) => {
-        run.search(query.substring(2, query.length))
-    })
-    socket.on('search', ({ query, engine }) => {
-        global.customQuery.status = true
-        global.customQuery.message = query
-        global.customQuery.engine = Number(engine)
+        lifecycle.stop()
     })
 });
 
