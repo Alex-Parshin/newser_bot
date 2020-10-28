@@ -1,18 +1,6 @@
-class Test {
-    constructor() {
-        this.testMsg = 'test'
-    }
+import { createStore } from 'redux';
+import reducer from './reducer';
 
-    test() {
-        console.log(this.testMsg)
-        this.test2Msg = 123
-    }
+const store = createStore(reducer);
 
-    test2() {
-        console.log(this.test2Msg)
-    }
-}
-
-const test = new Test()
-test.test()
-test.test2()
+export default store;

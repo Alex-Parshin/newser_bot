@@ -2059,3 +2059,27 @@ Wed Oct 28 2020 11:21:53 GMT+0300 (Moscow Standard Time) Бот готов к р
 Wed Oct 28 2020 11:22:05 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
 Wed Oct 28 2020 11:22:06 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.14 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.14 секунд!
 Wed Oct 28 2020 11:22:06 GMT+0300 (Moscow Standard Time) Бот остановлен
+Wed Oct 28 2020 11:38:49 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 11:38:55 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Wed Oct 28 2020 11:38:55 GMT+0300 (Moscow Standard Time) Успешно получен запрос начальник штаба зво
+Wed Oct 28 2020 11:38:55 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: начальник штаба зво
+Wed Oct 28 2020 11:38:57 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.754 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.754 секунд!
+Wed Oct 28 2020 11:38:58 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Wed Oct 28 2020 11:38:58 GMT+0300 (Moscow Standard Time) Успешно получен запрос химическое оружие
+Wed Oct 28 2020 11:38:58 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: химическое оружие
+Wed Oct 28 2020 11:48:56 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 11:49:55 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 11:50:54 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 11:52:34 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 11:52:40 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: 123
+Wed Oct 28 2020 11:52:48 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 11:52:54 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Wed Oct 28 2020 11:52:57 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 3.03 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 3.03 секунд!
+Wed Oct 28 2020 11:52:57 GMT+0300 (Moscow Standard Time) Бот остановлен
+Wed Oct 28 2020 11:53:06 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Wed Oct 28 2020 11:53:06 GMT+0300 (Moscow Standard Time) Успешно получен запрос полигон ЗВО
+Wed Oct 28 2020 11:53:34 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 11:53:43 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Wed Oct 28 2020 11:53:43 GMT+0300 (Moscow Standard Time) Успешно получен запрос начальник штаба юво
+Wed Oct 28 2020 11:53:43 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: начальник штаба юво
+Wed Oct 28 2020 11:53:45 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.477 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.477 секунд!
