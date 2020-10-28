@@ -1,8 +1,10 @@
 import express from 'express'
+import user_list from './data/users.json'
+import points from './data/points.json'
+
 const router = express.Router()
 
 router.use(function timeLog (req, res, next) {
-  console.log('Time: ', Date.now())
   next()
 })
 
@@ -10,7 +12,6 @@ router.post('/api/login', function(req, res) {
     let auth = false
     const login = req.body.login
     const password = req.body.password
-    const user_list = require('./data/users.json')
     user_list.forEach(user => {
         if (login === user.login && password === user.password) {
             auth = true
@@ -38,7 +39,6 @@ router.get('/api/config', function(req, res) {
 })
 
 router.get('/api/graph', function(req, res) {
-    const points = require('./data/points.json')
     res.json(points)
 })
 
