@@ -2,11 +2,12 @@
     "name": "newser",
     "version": "2.0.0",
     "private": true,
+    "type": "module",
     "watch": {
         "test": "*.js"
     },
     "scripts": {
-        "start:dev": "node index.js",
+        "start:dev": "node --experimental-modules --experimental-json-modules --es-module-specifier-resolution=node index.js",
         "start": "forever start -a index.js",
         "stop": "forever stop index.js",
         "restart": "forever restart index.js",

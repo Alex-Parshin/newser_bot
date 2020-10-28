@@ -1,18 +1,20 @@
 'use strict'
 
 // NPM modules
-const express = require("express");
-const socket = require("socket.io");
-const path = require('path')
-const cors = require('cors')
-const bodyParser = require('body-parser');
-const fs = require('fs')
-require('dotenv').config();
+import express from 'express'
+import socket from 'socket.io'
+import path from 'path'
+import cors from 'cors'
+import bodyParser from 'body-parser'
+import fs from 'fs'
+import dotenv from 'dotenv'
+dotenv.config()
 
 // Custom modules
-const Lifecycle = require('./lib/core/lifecycle')
-const config = require('./lib/data/configuration1.json')
-const router = require('./router')
+import Lifecycle from './lib/core/lifecycle'
+import config from './lib/data/configuration.json'
+import router from './router'
+
 // Global vars
 var BOT_STATUS = 'off'
 
@@ -41,7 +43,7 @@ const io = socket(server);
 
 // New instance of Lifecycle class with io parameter
 const lifecycle = new Lifecycle(io)
-lifecycle.mainQueue()
+// lifecycle.mainQueue()
 
 io.on('connect', socket => {
     socket.emit('message', {

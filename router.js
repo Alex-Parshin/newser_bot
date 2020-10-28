@@ -1,5 +1,5 @@
-var express = require('express')
-var router = express.Router()
+import express from 'express'
+const router = express.Router()
 
 router.use(function timeLog (req, res, next) {
   console.log('Time: ', Date.now())
@@ -42,4 +42,4 @@ router.get('/api/graph', function(req, res) {
     res.json(points)
 })
 
-module.exports = router
+export default router;
