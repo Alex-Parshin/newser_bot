@@ -8,8 +8,17 @@ test:
         - "4000:4000"
     environment:
         - QUERY_URL=http://10.19.19.4:1680/admin/give_search_query
+        - SEND_URL=http://10.19.19.4:1680/admin/give_search_query
         - RABBIT_HOST=10.19.19.4
         - RABBIT_PORT=5672
         - RABBIT_USER=admin
         - RABBIT_PASSWORD=admin
         - SERVER_PORT=4000
+        - ANTICAPTCHA_ID=97203e301632af0a78ff1ba36390b902
+        - SERVER_HOST=localhost
+        - SERVER_PORT=5000
+        - QUERY_URL=http://10.19.19.4:1680/admin/give_search_query
+        - DEFAULT_PAGES=1
+        - SERVER_SOURCE=Удаленный сервер
+        - LOCAL_FILE_SOURCE=Локальный файл
+        - WEB_APP_SOURCE=Веб-приложение
