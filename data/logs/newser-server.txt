@@ -2083,3 +2083,235 @@ Wed Oct 28 2020 11:53:43 GMT+0300 (Moscow Standard Time) Получаю данн
 Wed Oct 28 2020 11:53:43 GMT+0300 (Moscow Standard Time) Успешно получен запрос начальник штаба юво
 Wed Oct 28 2020 11:53:43 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: начальник штаба юво
 Wed Oct 28 2020 11:53:45 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.477 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.477 секунд!
+Wed Oct 28 2020 15:01:02 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:01:56 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:02:29 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Wed Oct 28 2020 15:03:16 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:03:25 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: россия
+Wed Oct 28 2020 15:04:00 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:04:09 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: россия
+Wed Oct 28 2020 15:04:30 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:04:39 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: россия
+Wed Oct 28 2020 15:04:40 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.012 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.012 секунд!
+Wed Oct 28 2020 15:05:11 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:05:20 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: россия
+Wed Oct 28 2020 15:05:21 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.047 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.047 секунд!
+Wed Oct 28 2020 15:05:21 GMT+0300 (Moscow Standard Time) Бот остановлен
+Wed Oct 28 2020 15:05:35 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Wed Oct 28 2020 15:05:38 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:05:38 GMT+0300 (Moscow Standard Time) ReferenceError: captcha is not defined
+Wed Oct 28 2020 15:05:38 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Wed Oct 28 2020 15:05:38 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Wed Oct 28 2020 15:06:42 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:06:54 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Wed Oct 28 2020 15:06:57 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:06:57 GMT+0300 (Moscow Standard Time) TypeError: Cannot read property 'page' of undefined
+Wed Oct 28 2020 15:06:57 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Wed Oct 28 2020 15:07:42 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:07:48 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: россия
+Wed Oct 28 2020 15:07:51 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:07:51 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 2.93 секунд! Всего получено undefined новостей. Всего обработано 1 запросов за 2.93 секунд!
+Wed Oct 28 2020 15:07:51 GMT+0300 (Moscow Standard Time) Бот остановлен
+Wed Oct 28 2020 15:07:51 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: россия
+Wed Oct 28 2020 15:08:45 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:08:57 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: россия
+Wed Oct 28 2020 15:09:07 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 9.769 секунд! Всего получено undefined новостей. Всего обработано 1 запросов за 9.769 секунд!
+Wed Oct 28 2020 15:09:07 GMT+0300 (Moscow Standard Time) Бот остановлен
+Wed Oct 28 2020 15:09:09 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: россия
+Wed Oct 28 2020 15:10:11 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:10:20 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: россия
+Wed Oct 28 2020 15:10:23 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:10:23 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 3.053 секунд! Всего получено undefined новостей. Всего обработано 1 запросов за 3.053 секунд!
+Wed Oct 28 2020 15:10:23 GMT+0300 (Moscow Standard Time) Бот остановлен
+Wed Oct 28 2020 15:12:22 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:12:47 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:12:57 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: россия
+Wed Oct 28 2020 15:12:59 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:12:59 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 2.853 секунд! Всего получено undefined новостей. Всего обработано 1 запросов за 2.853 секунд!
+Wed Oct 28 2020 15:12:59 GMT+0300 (Moscow Standard Time) Бот остановлен
+Wed Oct 28 2020 15:12:59 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: россия
+Wed Oct 28 2020 15:14:20 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:14:29 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: россия
+Wed Oct 28 2020 15:14:30 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.112 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.112 секунд!
+Wed Oct 28 2020 15:14:30 GMT+0300 (Moscow Standard Time) Бот остановлен
+Wed Oct 28 2020 15:14:35 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:14:41 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: россия
+Wed Oct 28 2020 15:14:43 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:15:01 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 19.988 секунд! Всего получено undefined новостей. Всего обработано 1 запросов за 19.988 секунд!
+Wed Oct 28 2020 15:15:01 GMT+0300 (Moscow Standard Time) Бот остановлен
+Wed Oct 28 2020 15:15:02 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: россия
+Wed Oct 28 2020 15:15:02 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:16:10 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:16:19 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: россия
+Wed Oct 28 2020 15:16:22 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:16:53 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Wed Oct 28 2020 15:16:53 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 34.162 секунд! Всего получено 10 новостей. Всего обработано 1 запросов за 34.162 секунд!
+Wed Oct 28 2020 15:19:04 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:19:19 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: россия
+Wed Oct 28 2020 15:19:21 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:19:29 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Wed Oct 28 2020 15:19:34 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:19:43 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Wed Oct 28 2020 15:19:46 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:19:51 GMT+0300 (Moscow Standard Time) Капча!
+Wed Oct 28 2020 15:19:51 GMT+0300 (Moscow Standard Time) Посылаю на обработку!
+Wed Oct 28 2020 15:20:23 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:20:32 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Wed Oct 28 2020 15:20:34 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:20:46 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Wed Oct 28 2020 15:21:02 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Wed Oct 28 2020 15:21:11 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 39.379 секунд! Всего получено 22 новостей. Всего обработано 1 запросов за 39.379 секунд!
+Wed Oct 28 2020 15:22:33 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:22:45 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Wed Oct 28 2020 15:22:48 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:23:12 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Wed Oct 28 2020 15:23:12 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 26.489 секунд! Всего получено 10 новостей. Всего обработано 1 запросов за 26.489 секунд!
+Wed Oct 28 2020 15:23:12 GMT+0300 (Moscow Standard Time) Бот остановлен
+Wed Oct 28 2020 15:23:33 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:23:42 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Wed Oct 28 2020 15:23:44 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:24:09 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Wed Oct 28 2020 15:24:09 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 26.942 секунд! Всего получено 10 новостей. Всего обработано 1 запросов за 26.942 секунд!
+Wed Oct 28 2020 15:24:31 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:24:43 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Wed Oct 28 2020 15:24:46 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:25:09 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Wed Oct 28 2020 15:25:09 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 25.527 секунд! Всего получено 10 новостей. Всего обработано 1 запросов за 25.527 секунд!
+Wed Oct 28 2020 15:25:09 GMT+0300 (Moscow Standard Time) Бот остановлен
+Wed Oct 28 2020 15:25:34 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:25:40 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Wed Oct 28 2020 15:25:43 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:25:58 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Wed Oct 28 2020 15:25:58 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 18.321 секунд! Всего получено 10 новостей. Всего обработано 1 запросов за 18.321 секунд!
+Wed Oct 28 2020 15:26:51 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:27:00 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Wed Oct 28 2020 15:27:02 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:27:21 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Wed Oct 28 2020 15:27:22 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 21.829 секунд! Всего получено 10 новостей. Всего обработано 1 запросов за 21.829 секунд!
+Wed Oct 28 2020 15:27:30 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:27:39 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Wed Oct 28 2020 15:27:41 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:28:03 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Wed Oct 28 2020 15:28:03 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 24.696 секунд! Всего получено 10 новостей. Всего обработано 1 запросов за 24.696 секунд!
+Wed Oct 28 2020 15:28:16 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:28:22 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Wed Oct 28 2020 15:28:25 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:28:40 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Wed Oct 28 2020 15:28:40 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 17.838 секунд! Всего получено 10 новостей. Всего обработано 1 запросов за 17.838 секунд!
+Wed Oct 28 2020 15:28:40 GMT+0300 (Moscow Standard Time) Бот остановлен
+Wed Oct 28 2020 15:29:04 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:29:16 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: тенополис
+Wed Oct 28 2020 15:29:19 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:29:24 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 8.446 секунд! Всего получено undefined новостей. Всего обработано 1 запросов за 8.446 секунд!
+Wed Oct 28 2020 15:29:24 GMT+0300 (Moscow Standard Time) Бот остановлен
+Wed Oct 28 2020 15:29:25 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: тенополис
+Wed Oct 28 2020 15:30:06 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:30:15 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: привет
+Wed Oct 28 2020 15:30:18 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:30:39 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Wed Oct 28 2020 15:30:39 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 24.148 секунд! Всего получено 10 новостей. Всего обработано 1 запросов за 24.148 секунд!
+Wed Oct 28 2020 15:30:39 GMT+0300 (Moscow Standard Time) Бот остановлен
+Wed Oct 28 2020 15:31:11 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:31:20 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: привет
+Wed Oct 28 2020 15:31:23 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:31:49 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Wed Oct 28 2020 15:31:49 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 28.708 секунд! Всего получено 10 новостей. Всего обработано 1 запросов за 28.708 секунд!
+Wed Oct 28 2020 15:32:23 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:32:29 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: привет
+Wed Oct 28 2020 15:32:32 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:32:53 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Wed Oct 28 2020 15:32:54 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 24.367 секунд! Всего получено 10 новостей. Всего обработано 1 запросов за 24.367 секунд!
+Wed Oct 28 2020 15:36:32 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:36:38 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: привет
+Wed Oct 28 2020 15:36:40 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:36:59 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Wed Oct 28 2020 15:36:59 GMT+0300 (Moscow Standard Time) TypeError: Cannot read property 'evaluate' of undefined
+Wed Oct 28 2020 15:36:59 GMT+0300 (Moscow Standard Time) TypeError: Cannot read property 'evaluate' of undefined
+Wed Oct 28 2020 15:36:59 GMT+0300 (Moscow Standard Time) TypeError: Cannot read property 'evaluate' of undefined
+Wed Oct 28 2020 15:36:59 GMT+0300 (Moscow Standard Time) TypeError: Cannot read property 'evaluate' of undefined
+Wed Oct 28 2020 15:36:59 GMT+0300 (Moscow Standard Time) TypeError: Cannot read property 'evaluate' of undefined
+Wed Oct 28 2020 15:36:59 GMT+0300 (Moscow Standard Time) TypeError: Cannot read property 'evaluate' of undefined
+Wed Oct 28 2020 15:36:59 GMT+0300 (Moscow Standard Time) TypeError: Cannot read property 'evaluate' of undefined
+Wed Oct 28 2020 15:36:59 GMT+0300 (Moscow Standard Time) TypeError: Cannot read property 'evaluate' of undefined
+Wed Oct 28 2020 15:36:59 GMT+0300 (Moscow Standard Time) TypeError: Cannot read property 'evaluate' of undefined
+Wed Oct 28 2020 15:36:59 GMT+0300 (Moscow Standard Time) TypeError: Cannot read property 'evaluate' of undefined
+Wed Oct 28 2020 15:36:59 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Wed Oct 28 2020 15:36:59 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: привет
+Wed Oct 28 2020 15:37:00 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:37:20 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:37:26 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: привет
+Wed Oct 28 2020 15:37:29 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:37:35 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 9.852 секунд! Всего получено undefined новостей. Всего обработано 1 запросов за 9.852 секунд!
+Wed Oct 28 2020 15:37:35 GMT+0300 (Moscow Standard Time) Бот остановлен
+Wed Oct 28 2020 15:37:38 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: привет
+Wed Oct 28 2020 15:37:39 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:38:27 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:38:37 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Wed Oct 28 2020 15:38:40 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:39:03 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Wed Oct 28 2020 15:39:03 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 26.62 секунд! Всего получено 10 новостей. Всего обработано 1 запросов за 26.62 секунд!
+Wed Oct 28 2020 15:39:03 GMT+0300 (Moscow Standard Time) Бот остановлен
+Wed Oct 28 2020 15:39:25 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Wed Oct 28 2020 15:39:26 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:39:39 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Wed Oct 28 2020 15:39:47 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Wed Oct 28 2020 15:39:52 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Wed Oct 28 2020 15:39:58 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 33.229 секунд! Всего получено 31 новостей. Всего обработано 1 запросов за 33.229 секунд!
+Wed Oct 28 2020 15:39:58 GMT+0300 (Moscow Standard Time) Бот остановлен
+Wed Oct 28 2020 15:40:49 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:42:44 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:42:50 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Wed Oct 28 2020 15:44:30 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:44:36 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Wed Oct 28 2020 15:44:36 GMT+0300 (Moscow Standard Time) Успешно получен запрос 
+Wed Oct 28 2020 15:44:36 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: оружие массового поражения
+Wed Oct 28 2020 15:44:38 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.926 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.926 секунд!
+Wed Oct 28 2020 15:44:38 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: оружие массового поражения
+Wed Oct 28 2020 15:44:41 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:44:53 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Wed Oct 28 2020 15:45:04 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Wed Oct 28 2020 15:45:13 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Wed Oct 28 2020 15:45:18 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 40.189 секунд! Всего получено 38 новостей. Всего обработано 1 запросов за 40.189 секунд!
+Wed Oct 28 2020 15:45:18 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: оружие массового поражения
+Wed Oct 28 2020 15:45:28 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 10.021 секунд! Всего получено undefined новостей. Всего обработано 1 запросов за 10.021 секунд!
+Wed Oct 28 2020 15:45:30 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Wed Oct 28 2020 15:45:30 GMT+0300 (Moscow Standard Time) Успешно получен запрос оружие массового поражения
+Wed Oct 28 2020 15:45:30 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Куала-Лумпур
+Wed Oct 28 2020 15:45:32 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.465 секунд! Всего получено 82 новостей. Всего обработано 1 запросов за 1.465 секунд!
+Wed Oct 28 2020 15:45:32 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Куала-Лумпур
+Wed Oct 28 2020 15:45:33 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:46:30 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:48:21 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Wed Oct 28 2020 15:48:21 GMT+0300 (Moscow Standard Time) Успешно получен запрос 
+Wed Oct 28 2020 15:48:21 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Южный военный округ
+Wed Oct 28 2020 15:48:22 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.26 секунд! Всего получено 12 новостей. Всего обработано 1 запросов за 1.26 секунд!
+Wed Oct 28 2020 15:48:22 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Южный военный округ
+Wed Oct 28 2020 15:48:25 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:49:10 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:49:16 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Wed Oct 28 2020 15:49:17 GMT+0300 (Moscow Standard Time) Успешно получен запрос 
+Wed Oct 28 2020 15:49:17 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Береговая охрана + США
+Wed Oct 28 2020 15:49:19 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 2.016 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 2.016 секунд!
+Wed Oct 28 2020 15:49:19 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Береговая охрана + США
+Wed Oct 28 2020 15:49:21 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:49:28 GMT+0300 (Moscow Standard Time) Капча!
+Wed Oct 28 2020 15:49:28 GMT+0300 (Moscow Standard Time) Посылаю на обработку!
+Wed Oct 28 2020 15:51:15 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Wed Oct 28 2020 15:51:24 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Wed Oct 28 2020 15:51:24 GMT+0300 (Moscow Standard Time) Успешно получен запрос 
+Wed Oct 28 2020 15:51:24 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Халтмаагийн Баттулга
+Wed Oct 28 2020 15:51:26 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.272 секунд! Всего получено 17 новостей. Всего обработано 1 запросов за 1.272 секунд!
+Wed Oct 28 2020 15:51:26 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Халтмаагийн Баттулга
+Wed Oct 28 2020 15:51:28 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:51:37 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Wed Oct 28 2020 15:51:54 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 28.199 секунд! Всего получено 12 новостей. Всего обработано 1 запросов за 28.199 секунд!
+Wed Oct 28 2020 15:51:54 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Халтмаагийн Баттулга
+Wed Oct 28 2020 15:51:57 GMT+0300 (Moscow Standard Time) На главной странице
+Wed Oct 28 2020 15:52:24 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Wed Oct 28 2020 15:52:24 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 29.957 секунд! Всего получено 10 новостей. Всего обработано 1 запросов за 29.957 секунд!
+Wed Oct 28 2020 15:52:24 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Wed Oct 28 2020 15:52:24 GMT+0300 (Moscow Standard Time) Успешно получен запрос Халтмаагийн Баттулга
+Wed Oct 28 2020 15:52:24 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: командующий ЗВО
+Wed Oct 28 2020 15:52:26 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.293 секунд! Всего получено 40 новостей. Всего обработано 1 запросов за 1.293 секунд!
+Wed Oct 28 2020 15:52:26 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: командующий ЗВО
+Wed Oct 28 2020 15:52:27 GMT+0300 (Moscow Standard Time) На главной странице

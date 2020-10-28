@@ -6,7 +6,6 @@ import socket from 'socket.io'
 import path from 'path'
 import cors from 'cors'
 import bodyParser from 'body-parser'
-import fs from 'fs'
 import dotenv from 'dotenv'
 dotenv.config()
 
@@ -34,7 +33,7 @@ const server = app.listen(PORT, function() {
 
 // Static files
 app.use(express.static("public"));
-app.use('/static', express.static(path.join(__dirname, 'public')))
+app.use('/static', express.static(path.join(path.resolve(), 'public')))
 
 app.use('/', router)
 
@@ -43,9 +42,10 @@ const io = socket(server);
 
 // New instance of Lifecycle class with io parameter
 const lifecycle = new Lifecycle(io)
-// lifecycle.mainQueue()
+lifecycle.mainQueue()
 
 io.on('connect', socket => {
+    
     socket.emit('message', {
         message: `Бот подключен!`,
         sender: 'Newser',
@@ -66,48 +66,11 @@ io.on('connect', socket => {
     })
 });
 
-// Routes
-app.post('/api/login', function(req, res) {
-    let auth = false
-    const login = req.body.login
-    const password = req.body.password
-    const user_list = require('./data/users.json')
-    user_list.forEach(user => {
-        if (login === user.login && password === user.password) {
-            auth = true
-            res.json({ user: 'admin', token: Date.now() })
-        }
-    })
-    if (auth === false) res.json({ error: 'Auth error!' })
-})
-
-app.post('/api/updateConfig', function(req, res) {
-    try {
-        fs.writeFileSync('./lib/data/configuration.json', JSON.stringify(req.body.config))
-        res.send("Success")
-        process.exit(0)
-    } catch (e) {
-        res.send(`Error! ${e}`)
-    }
-})
-
-app.get('/api/config', function(req, res) {
-    res.json({
-        status: "Success",
-        config: config
-    })
-})
-
-app.get('/api/graph', function(req, res) {
-    const points = require('./data/points.json')
-    res.json(points)
-})
-
 // Frontend
 if (process.env.NODE_ENV === 'production') {
-    app.use(express.static(__dirname + '/public/'));
+    app.use(express.static(`${path.resolve()}/public/`));
 
-    app.get(/.*/, (req, res) => {
-        res.sendFile(__dirname + '/public/index.html');
+    app.get(/.*/, (_, res) => {
+        res.sendFile(`${path.resolve()}/public/index.html`);
     })
 }
