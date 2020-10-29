@@ -40,9 +40,6 @@ const io = socket(server);
 store.setSocket(io)
 socketManager()
 
-const lifecycle = new LifeCycle()
-lifecycle.mainQueue()
-
 // Frontend
 if (process.env.NODE_ENV === 'production') {
     app.use(express.static(`${path.resolve()}/public/`));

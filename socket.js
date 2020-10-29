@@ -2,7 +2,10 @@ import store from './lib/core/state/stateManager'
 import Lifecycle from './lib/core/lifecycle'
 
 export default function socketManager() {
+
     const lifecycle = new Lifecycle()
+    lifecycle.mainQueue()
+    
     const io = store.getSocket()
 
     io.on('connect', socket => {
@@ -21,7 +24,7 @@ export default function socketManager() {
             store.setUrl(url)
             store.setEngines(engines)
 
-            lifecycle.start()
+            lifecycle.start({ source, query, id_request, pages, url, engines })
         })
 
         socket.on('stopBot', () => {
