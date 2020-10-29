@@ -1,9 +1,8 @@
 import store from './lib/core/state/stateManager'
 import Lifecycle from './lib/core/lifecycle'
-import LifeCycle from './lib/core/lifecycle'
 
 export default function socketManager() {
-    const lifecycle = new LifeCycle()
+    const lifecycle = new Lifecycle()
     const io = store.getSocket()
 
     io.on('connect', socket => {
@@ -15,7 +14,6 @@ export default function socketManager() {
         })
 
         socket.on('startBot', ({ source, query, id_request, pages, url, engines }) => {
-            
             store.setSource(source)
             store.setQuery(query)
             store.setIdRequest(id_request)

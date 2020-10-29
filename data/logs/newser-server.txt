@@ -219,3 +219,248 @@ Thu Oct 29 2020 11:34:13 GMT+0300 (Moscow Standard Time) Получаю данн
 Thu Oct 29 2020 11:34:13 GMT+0300 (Moscow Standard Time) Успешно получен запрос Нгуен Фу Чонг
 Thu Oct 29 2020 11:34:13 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Нгуен Фу Чонг
 Thu Oct 29 2020 11:34:14 GMT+0300 (Moscow Standard Time) На главной странице
+Thu Oct 29 2020 11:42:28 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 11:42:34 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: 
+Thu Oct 29 2020 11:42:35 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Thu Oct 29 2020 11:42:35 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: 
+Thu Oct 29 2020 11:43:24 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 11:43:33 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Thu Oct 29 2020 11:43:34 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.055 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.055 секунд!
+Thu Oct 29 2020 11:43:34 GMT+0300 (Moscow Standard Time) Бот остановлен
+Thu Oct 29 2020 11:43:48 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Thu Oct 29 2020 11:43:51 GMT+0300 (Moscow Standard Time) На главной странице
+Thu Oct 29 2020 11:44:05 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Thu Oct 29 2020 11:44:05 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 16.825 секунд! Всего получено 10 новостей. Всего обработано 1 запросов за 16.825 секунд!
+Thu Oct 29 2020 11:44:05 GMT+0300 (Moscow Standard Time) Бот остановлен
+Thu Oct 29 2020 11:44:12 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: 
+Thu Oct 29 2020 11:44:12 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Thu Oct 29 2020 11:44:12 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: 
+Thu Oct 29 2020 11:44:14 GMT+0300 (Moscow Standard Time) На главной странице
+Thu Oct 29 2020 11:45:04 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 11:45:10 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 11:45:10 GMT+0300 (Moscow Standard Time) Успешно получен запрос Казахстан
+Thu Oct 29 2020 11:45:10 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Казахстан
+Thu Oct 29 2020 11:45:12 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.296 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.296 секунд!
+Thu Oct 29 2020 11:45:13 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 11:45:13 GMT+0300 (Moscow Standard Time) Успешно получен запрос Майк Помпео
+Thu Oct 29 2020 11:45:13 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Майк Помпео
+Thu Oct 29 2020 11:45:16 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 11:45:22 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 11:45:23 GMT+0300 (Moscow Standard Time) Успешно получен запрос генерал-полковник журавлев
+Thu Oct 29 2020 11:45:23 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: генерал-полковник журавлев
+Thu Oct 29 2020 11:45:24 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.181 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.181 секунд!
+Thu Oct 29 2020 11:45:24 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: генерал-полковник журавлев
+Thu Oct 29 2020 11:45:26 GMT+0300 (Moscow Standard Time) На главной странице
+Thu Oct 29 2020 11:45:32 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Thu Oct 29 2020 11:45:34 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 11:45:35 GMT+0300 (Moscow Standard Time) Успешно получен запрос северный флот учения
+Thu Oct 29 2020 11:45:35 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: северный флот учения
+Thu Oct 29 2020 11:45:36 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.509 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.509 секунд!
+Thu Oct 29 2020 11:45:36 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: северный флот учения
+Thu Oct 29 2020 11:45:39 GMT+0300 (Moscow Standard Time) На главной странице
+Thu Oct 29 2020 11:45:46 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Thu Oct 29 2020 11:45:46 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 11:45:47 GMT+0300 (Moscow Standard Time) Успешно получен запрос вкс рф
+Thu Oct 29 2020 11:45:47 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: вкс рф
+Thu Oct 29 2020 11:45:48 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.365 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.365 секунд!
+Thu Oct 29 2020 11:45:48 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: вкс рф
+Thu Oct 29 2020 11:45:50 GMT+0300 (Moscow Standard Time) На главной странице
+Thu Oct 29 2020 11:46:00 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Thu Oct 29 2020 11:46:01 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 11:46:02 GMT+0300 (Moscow Standard Time) Успешно получен запрос дейр-эз-зор
+Thu Oct 29 2020 11:46:02 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: дейр-эз-зор
+Thu Oct 29 2020 11:46:03 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.18 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.18 секунд!
+Thu Oct 29 2020 11:46:03 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: дейр-эз-зор
+Thu Oct 29 2020 11:46:06 GMT+0300 (Moscow Standard Time) На главной странице
+Thu Oct 29 2020 11:46:14 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Thu Oct 29 2020 11:46:16 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 11:46:17 GMT+0300 (Moscow Standard Time) Успешно получен запрос курды
+Thu Oct 29 2020 11:46:17 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: курды
+Thu Oct 29 2020 11:46:18 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.477 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.477 секунд!
+Thu Oct 29 2020 11:46:18 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: курды
+Thu Oct 29 2020 11:46:20 GMT+0300 (Moscow Standard Time) На главной странице
+Thu Oct 29 2020 11:46:26 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Thu Oct 29 2020 11:46:28 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 11:46:30 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 11:46:36 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 11:46:37 GMT+0300 (Moscow Standard Time) Успешно получен запрос командующий вво
+Thu Oct 29 2020 11:46:37 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: командующий вво
+Thu Oct 29 2020 11:46:38 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.085 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.085 секунд!
+Thu Oct 29 2020 11:46:38 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: командующий вво
+Thu Oct 29 2020 11:46:48 GMT+0300 (Moscow Standard Time) На главной странице
+Thu Oct 29 2020 11:46:53 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Thu Oct 29 2020 11:46:54 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 11:46:55 GMT+0300 (Moscow Standard Time) Успешно получен запрос сергей шойгу
+Thu Oct 29 2020 11:46:55 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: сергей шойгу
+Thu Oct 29 2020 11:46:58 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 11:47:04 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 11:47:04 GMT+0300 (Moscow Standard Time) Успешно получен запрос росгвардия
+Thu Oct 29 2020 11:47:04 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: росгвардия
+Thu Oct 29 2020 11:47:19 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Thu Oct 29 2020 11:47:23 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 11:47:29 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 11:47:29 GMT+0300 (Moscow Standard Time) Успешно получен запрос Республика Саха
+Thu Oct 29 2020 11:47:29 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Республика Саха
+Thu Oct 29 2020 11:47:39 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Thu Oct 29 2020 11:47:41 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 11:47:41 GMT+0300 (Moscow Standard Time) Успешно получен запрос полигон ЮВО
+Thu Oct 29 2020 11:47:41 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: полигон ЮВО
+Thu Oct 29 2020 11:48:19 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 11:48:28 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Thu Oct 29 2020 11:48:31 GMT+0300 (Moscow Standard Time) На главной странице
+Thu Oct 29 2020 11:48:40 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Thu Oct 29 2020 11:48:40 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 12.404 секунд! Всего получено 10 новостей. Всего обработано 1 запросов за 12.404 секунд!
+Thu Oct 29 2020 11:48:40 GMT+0300 (Moscow Standard Time) Бот остановлен
+Thu Oct 29 2020 11:48:46 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: 
+Thu Oct 29 2020 11:48:47 GMT+0300 (Moscow Standard Time) На главной странице
+Thu Oct 29 2020 11:49:54 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 11:50:00 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 11:50:00 GMT+0300 (Moscow Standard Time) Успешно получен запрос Начальники штабов вооружённых сил  сша
+Thu Oct 29 2020 11:50:00 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Начальники штабов вооружённых сил  сша
+Thu Oct 29 2020 11:50:04 GMT+0300 (Moscow Standard Time) На главной странице
+Thu Oct 29 2020 11:50:09 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Thu Oct 29 2020 11:50:12 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 11:50:12 GMT+0300 (Moscow Standard Time) Успешно получен запрос Командование сухопутных войск   сша
+Thu Oct 29 2020 11:50:12 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Командование сухопутных войск   сша
+Thu Oct 29 2020 11:50:14 GMT+0300 (Moscow Standard Time) На главной странице
+Thu Oct 29 2020 11:50:22 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Thu Oct 29 2020 11:51:55 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 11:52:01 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 11:52:01 GMT+0300 (Moscow Standard Time) Успешно получен запрос Австралия
+Thu Oct 29 2020 11:52:01 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Австралия
+Thu Oct 29 2020 11:52:02 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.234 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.234 секунд!
+Thu Oct 29 2020 11:52:04 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 11:52:04 GMT+0300 (Moscow Standard Time) Успешно получен запрос Красная речка
+Thu Oct 29 2020 11:52:04 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Красная речка
+Thu Oct 29 2020 11:52:06 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 11:52:12 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 11:52:12 GMT+0300 (Moscow Standard Time) Успешно получен запрос Командование специальных операций  сша
+Thu Oct 29 2020 11:52:12 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Командование специальных операций  сша
+Thu Oct 29 2020 11:54:08 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 11:54:14 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 11:54:14 GMT+0300 (Moscow Standard Time) Успешно получен запрос Ким Чен Ын
+Thu Oct 29 2020 11:54:14 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Ким Чен Ын
+Thu Oct 29 2020 11:54:17 GMT+0300 (Moscow Standard Time) На главной странице
+Thu Oct 29 2020 11:54:28 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Thu Oct 29 2020 11:54:28 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 13.751 секунд! Всего получено 10 новостей. Всего обработано 1 запросов за 13.751 секунд!
+Thu Oct 29 2020 11:54:29 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 11:54:29 GMT+0300 (Moscow Standard Time) Успешно получен запрос замминистра шевцова татьяна викторовна
+Thu Oct 29 2020 11:54:29 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: замминистра шевцова татьяна викторовна
+Thu Oct 29 2020 11:54:30 GMT+0300 (Moscow Standard Time) На главной странице
+Thu Oct 29 2020 11:54:33 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 11:54:39 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 11:54:40 GMT+0300 (Moscow Standard Time) Успешно получен запрос моисеев александр алексеевич
+Thu Oct 29 2020 11:54:40 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: моисеев александр алексеевич
+Thu Oct 29 2020 11:54:41 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.219 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.219 секунд!
+Thu Oct 29 2020 11:54:41 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: моисеев александр алексеевич
+Thu Oct 29 2020 11:54:44 GMT+0300 (Moscow Standard Time) На главной странице
+Thu Oct 29 2020 11:54:52 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Thu Oct 29 2020 11:54:52 GMT+0300 (Moscow Standard Time) Error: Evaluation failed: TypeError: Cannot read property 'textContent' of undefined
+    at __puppeteer_evaluation_script__:1:11
+Thu Oct 29 2020 11:54:52 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 11.408 секунд! Всего получено 3 новостей. Всего обработано 1 запросов за 11.408 секунд!
+Thu Oct 29 2020 11:54:54 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 11:54:55 GMT+0300 (Moscow Standard Time) Успешно получен запрос тренировочный лагерь боевиков
+Thu Oct 29 2020 11:54:55 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: тренировочный лагерь боевиков
+Thu Oct 29 2020 11:54:56 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.321 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.321 секунд!
+Thu Oct 29 2020 11:54:56 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: тренировочный лагерь боевиков
+Thu Oct 29 2020 11:54:57 GMT+0300 (Moscow Standard Time) На главной странице
+Thu Oct 29 2020 11:55:08 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Thu Oct 29 2020 11:55:08 GMT+0300 (Moscow Standard Time) ReferenceError: clc is not defined
+Thu Oct 29 2020 11:55:08 GMT+0300 (Moscow Standard Time) Error: Evaluation failed: TypeError: Cannot read property 'textContent' of undefined
+    at __puppeteer_evaluation_script__:1:11
+Thu Oct 29 2020 11:55:08 GMT+0300 (Moscow Standard Time) Error: Evaluation failed: TypeError: Cannot read property 'textContent' of undefined
+    at __puppeteer_evaluation_script__:1:11
+Thu Oct 29 2020 11:55:08 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 12.174 секунд! Всего получено 7 новостей. Всего обработано 1 запросов за 12.174 секунд!
+Thu Oct 29 2020 11:55:09 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 11:55:10 GMT+0300 (Moscow Standard Time) Успешно получен запрос Биробиджан
+Thu Oct 29 2020 11:55:10 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Биробиджан
+Thu Oct 29 2020 11:55:11 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.279 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.279 секунд!
+Thu Oct 29 2020 11:55:11 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Биробиджан
+Thu Oct 29 2020 11:55:12 GMT+0300 (Moscow Standard Time) На главной странице
+Thu Oct 29 2020 11:55:15 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Thu Oct 29 2020 11:55:17 GMT+0300 (Moscow Standard Time) На главной странице
+Thu Oct 29 2020 11:55:21 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Thu Oct 29 2020 11:55:21 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 10.229 секунд! Всего получено 10 новостей. Всего обработано 1 запросов за 10.229 секунд!
+Thu Oct 29 2020 11:55:21 GMT+0300 (Moscow Standard Time) Бот остановлен
+Thu Oct 29 2020 11:55:30 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Thu Oct 29 2020 11:55:30 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 14.41 секунд! Всего получено 10 новостей. Всего обработано 1 запросов за 14.41 секунд!
+Thu Oct 29 2020 11:55:30 GMT+0300 (Moscow Standard Time) Бот остановлен
+Thu Oct 29 2020 11:55:49 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: 
+Thu Oct 29 2020 11:55:49 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Thu Oct 29 2020 11:55:49 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: 
+Thu Oct 29 2020 11:55:50 GMT+0300 (Moscow Standard Time) На главной странице
+Thu Oct 29 2020 11:55:52 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: 
+Thu Oct 29 2020 11:55:52 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Thu Oct 29 2020 12:04:46 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 12:05:16 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 12:07:38 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 12:07:53 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 12:11:45 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 12:11:51 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: undefined
+Thu Oct 29 2020 12:11:52 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Thu Oct 29 2020 12:12:47 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 12:12:53 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: undefined
+Thu Oct 29 2020 12:12:54 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Thu Oct 29 2020 12:14:06 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 12:14:15 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Thu Oct 29 2020 12:14:16 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Thu Oct 29 2020 12:14:18 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Thu Oct 29 2020 12:14:19 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Thu Oct 29 2020 12:14:57 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 12:15:03 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Thu Oct 29 2020 12:15:03 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Thu Oct 29 2020 12:15:20 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 12:15:26 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Thu Oct 29 2020 12:15:27 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Thu Oct 29 2020 12:16:26 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 12:16:35 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Thu Oct 29 2020 12:16:36 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 0.992 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 0.992 секунд!
+Thu Oct 29 2020 12:16:36 GMT+0300 (Moscow Standard Time) Бот остановлен
+Thu Oct 29 2020 12:16:47 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: техонополис
+Thu Oct 29 2020 12:16:47 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Thu Oct 29 2020 12:16:50 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: техонополис
+Thu Oct 29 2020 12:16:50 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Thu Oct 29 2020 12:17:58 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 12:18:04 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Thu Oct 29 2020 12:18:19 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Thu Oct 29 2020 12:18:22 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Thu Oct 29 2020 12:18:30 GMT+0300 (Moscow Standard Time) На главной странице
+Thu Oct 29 2020 12:18:43 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Thu Oct 29 2020 12:18:43 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 21.059 секунд! Всего получено 10 новостей. Всего обработано 1 запросов за 21.059 секунд!
+Thu Oct 29 2020 12:18:43 GMT+0300 (Moscow Standard Time) Бот остановлен
+Thu Oct 29 2020 12:18:52 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 12:18:52 GMT+0300 (Moscow Standard Time) Успешно получен запрос Канада
+Thu Oct 29 2020 12:18:52 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Канада
+Thu Oct 29 2020 12:18:54 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.347 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.347 секунд!
+Thu Oct 29 2020 12:18:54 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Канада
+Thu Oct 29 2020 12:18:56 GMT+0300 (Moscow Standard Time) На главной странице
+Thu Oct 29 2020 12:19:11 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Thu Oct 29 2020 12:19:11 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 17.15 секунд! Всего получено 10 новостей. Всего обработано 1 запросов за 17.15 секунд!
+Thu Oct 29 2020 12:19:13 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 12:19:14 GMT+0300 (Moscow Standard Time) Успешно получен запрос Арктический регион
+Thu Oct 29 2020 12:19:14 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Арктический регион
+Thu Oct 29 2020 12:19:15 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.322 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.322 секунд!
+Thu Oct 29 2020 12:19:15 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: Арктический регион
+Thu Oct 29 2020 12:19:20 GMT+0300 (Moscow Standard Time) На главной странице
+Thu Oct 29 2020 12:19:25 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Thu Oct 29 2020 12:19:26 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.063 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.063 секунд!
+Thu Oct 29 2020 12:19:26 GMT+0300 (Moscow Standard Time) Бот остановлен
+Thu Oct 29 2020 12:19:31 GMT+0300 (Moscow Standard Time) Ошибка при обработке запроса, пробую еще раз
+Thu Oct 29 2020 12:19:42 GMT+0300 (Moscow Standard Time) Бот остановлен
+Thu Oct 29 2020 12:21:07 GMT+0300 (Moscow Standard Time) Бот готов к работе!
+Thu Oct 29 2020 12:21:16 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Thu Oct 29 2020 12:21:17 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.11 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.11 секунд!
+Thu Oct 29 2020 12:21:17 GMT+0300 (Moscow Standard Time) Бот остановлен
+Thu Oct 29 2020 12:21:28 GMT+0300 (Moscow Standard Time) Получаю данные с сервера
+Thu Oct 29 2020 12:21:28 GMT+0300 (Moscow Standard Time) Успешно получен запрос криворучко алексей юрьевич
+Thu Oct 29 2020 12:21:28 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: криворучко алексей юрьевич
+Thu Oct 29 2020 12:21:29 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.033 секунд! Всего получено 73 новостей. Всего обработано 1 запросов за 1.033 секунд!
+Thu Oct 29 2020 12:21:29 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: криворучко алексей юрьевич
+Thu Oct 29 2020 12:21:33 GMT+0300 (Moscow Standard Time) На главной странице
+Thu Oct 29 2020 12:21:42 GMT+0300 (Moscow Standard Time) Начинаю сбор новостей...
+Thu Oct 29 2020 12:21:42 GMT+0300 (Moscow Standard Time) Error: Evaluation failed: TypeError: Cannot read property 'textContent' of undefined
+    at __puppeteer_evaluation_script__:1:11
+Thu Oct 29 2020 12:21:42 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 12.744 секунд! Всего получено 7 новостей. Всего обработано 1 запросов за 12.744 секунд!
+Thu Oct 29 2020 12:21:43 GMT+0300 (Moscow Standard Time) Начинаю обработку поискового запроса: технополис
+Thu Oct 29 2020 12:21:44 GMT+0300 (Moscow Standard Time) Обработка запроса заняла 1.269 секунд! Всего получено 100 новостей. Всего обработано 1 запросов за 1.269 секунд!
+Thu Oct 29 2020 12:21:44 GMT+0300 (Moscow Standard Time) Бот остановлен
