@@ -10,12 +10,10 @@ import dotenv from 'dotenv'
 dotenv.config()
 
 // Custom modules
-import Lifecycle from './lib/core/lifecycle'
-import config from './lib/data/configuration.json'
 import router from './router'
-
-// Global vars
-var BOT_STATUS = 'off'
+import store from './lib/core/state/stateManager'
+import socketManager from './socket'
+import LifeCycle from './lib/core/lifecycle'
 
 // App setup
 const PORT = process.env.SERVER_PORT;
@@ -39,32 +37,11 @@ app.use('/', router)
 
 // Socket setup
 const io = socket(server);
+store.setSocket(io)
+socketManager()
 
-// New instance of Lifecycle class with io parameter
-const lifecycle = new Lifecycle(io)
+const lifecycle = new LifeCycle()
 lifecycle.mainQueue()
-
-io.on('connect', socket => {
-    
-    socket.emit('message', {
-        message: `Бот подключен!`,
-        sender: 'Newser',
-        code: 0,
-        subtitle: 'В работе'
-    })
-
-    BOT_STATUS = 'connected'
-
-    socket.on('startBot', ({ source, query, id_request, pages, url, engines }) => {
-        if (url === "") url = process.env.QUERY_URL
-        
-        lifecycle.start(source, query, id_request, pages, url, engines)
-        BOT_STATUS = 'working'
-    })
-    socket.on('stopBot', () => {
-        lifecycle.stop()
-    })
-});
 
 // Frontend
 if (process.env.NODE_ENV === 'production') {
