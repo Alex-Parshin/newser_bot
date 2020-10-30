@@ -13,7 +13,7 @@ dotenv.config()
 import router from './router'
 import store from './lib/core/state/stateManager'
 import socketManager from './socket'
-import LifeCycle from './lib/core/lifecycle'
+import { checkQueueFile } from './lib/core/provider'
 
 // App setup
 const PORT = process.env.SERVER_PORT;
@@ -38,6 +38,7 @@ app.use('/', router)
 // Socket setup
 const io = socket(server);
 store.setSocket(io)
+checkQueueFile()
 socketManager()
 
 // Frontend
