@@ -1,4 +1,5 @@
 import store from './lib/core/state/stateManager'
+import { addQueryToQueue } from './lib/core/provider'
 import Lifecycle from './lib/core/lifecycle'
 
 export default function socketManager() {
@@ -16,15 +17,13 @@ export default function socketManager() {
             subtitle: 'В работе'
         })
 
-        socket.on('startBot', ({ source, query, id_request, pages, url, engines }) => {
-            store.setSource(source)
-            store.setQuery(query)
-            store.setIdRequest(id_request)
-            store.setPages(pages)
-            store.setUrl(url)
+        socket.on('startBot', ({ source, pages, url, engines }) => {
             store.setEngines(engines)
+            lifecycle.start({ source, pages, url, engines })
+        })
 
-            lifecycle.start({ source, query, id_request, pages, url, engines })
+        socket.on('addQueryToQueue', ({query, id_request, engine}) => {
+            addQueryToQueue({query, id_request, engine})
         })
 
         socket.on('stopBot', () => {

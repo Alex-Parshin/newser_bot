@@ -17,6 +17,7 @@
         "@antiadmin/anticaptchaofficial": "^1.0.9",
         "@reduxjs/toolkit": "^1.4.0",
         "amqplib": "^0.6.0",
+        "app-root-path": "^3.0.0",
         "axios": "^0.20.0",
         "body-parser": "^1.19.0",
         "cheerio": "^1.0.0-rc.3",
