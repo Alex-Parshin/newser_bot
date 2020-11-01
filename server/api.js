@@ -7,9 +7,9 @@ router.use(function timeLog (req, res, next) {
 })
 
 router.get('/', (req,res) => {
-    res.send('Welcome to socket server')
+    res.send('Welcome to socket server API')
 })
-// router.post('/api/login', function(req, res) {
+// router.post('/login', function(req, res) {
 //     let auth = false
 //     const login = req.body.login
 //     const password = req.body.password
@@ -22,7 +22,7 @@ router.get('/', (req,res) => {
 //     if (auth === false) res.json({ error: 'Auth error!' })
 // })
 
-// router.post('/api/updateConfig', function(req, res) {
+// router.post('/updateConfig', function(req, res) {
 //     try {
 //         fs.writeFileSync('./lib/data/configuration.json', JSON.stringify(req.body.config))
 //         res.send("Success")
@@ -32,14 +32,14 @@ router.get('/', (req,res) => {
 //     }
 // })
 
-// router.get('/api/config', function(req, res) {
+// router.get('/config', function(req, res) {
 //     res.json({
 //         status: "Success",
 //         config: config
 //     })
 // })
 
-// router.get('/api/graph', function(req, res) {
+// router.get('/graph', function(req, res) {
 //     res.json(points)
 // })
 

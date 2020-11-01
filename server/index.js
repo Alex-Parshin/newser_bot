@@ -9,7 +9,7 @@ import dotenv from 'dotenv'
 dotenv.config()
 
 // Custom modules
-import router from './router'
+import api from './api'
 import socketManager from './socket'
 
 // App setup
@@ -21,7 +21,7 @@ app.use(cors())
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 app.use(bodyParser.raw());
-app.use('/', router)
+app.use('/api', api)
 
 const server = app.listen(5000, () => {
     console.log('Listening on port 3000')
