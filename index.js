@@ -3,6 +3,8 @@
 import io from 'socket.io-client'
 import Lifecycle from './lib/core/lifecycle.js'
 import store from './lib/core/state/stateManager'
+import dotenv from 'dotenv'
+dotenv.config()
 
 const lifecycle = new Lifecycle()
 
@@ -10,7 +12,7 @@ export default function socketManager() {
 
     console.log('Connecting to socket server...')
 
-    const socket = io.connect('http://localhost:5000')
+    const socket = io.connect(`${process.env.SERVER_HOST}:${process.env.SERVER_PORT}`)
     store.setSocket(socket)
 
     socket.on('confirm', () => {
