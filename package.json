@@ -7,7 +7,7 @@
         "test": "*.js"
     },
     "scripts": {
-        "start:dev": "node --experimental-modules --experimental-json-modules --es-module-specifier-resolution=node index.js",
+        "start:dev": "node --experimental-modules --experimental-json-modules --es-module-specifier-resolution=node .",
         "start": "forever start -a index.js",
         "stop": "forever stop index.js",
         "restart": "forever restart index.js",
