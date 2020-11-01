@@ -1,51 +1,34 @@
 'use strict'
 
-// NPM modules
-import express from 'express'
-import socket from 'socket.io'
-import path from 'path'
-import cors from 'cors'
-import bodyParser from 'body-parser'
-import dotenv from 'dotenv'
-dotenv.config()
-
-// Custom modules
-import router from './router'
+import io from 'socket.io-client'
+import Lifecycle from './lib/core/lifecycle.js'
 import store from './lib/core/state/stateManager'
-import socketManager from './socket'
-import { checkQueueFile } from './lib/core/provider'
 
-// App setup
-const PORT = process.env.SERVER_PORT;
+const lifecycle = new Lifecycle()
 
-const app = express();
+export default function socketManager() {
 
-app.use(cors())
-app.use(bodyParser.urlencoded({ extended: true }));
-app.use(bodyParser.json());
-app.use(bodyParser.raw());
+    console.log('Connecting to socket server...')
 
-const server = app.listen(PORT, function() {
-    console.log(`Listening on port ${PORT}`);
-});
+    const socket = io.connect('http://localhost:5000')
+    store.setSocket(socket)
 
-// Static files
-app.use(express.static("public"));
-app.use('/static', express.static(path.join(path.resolve(), 'public')))
+    socket.on('confirm', () => {
+        console.log("Connection approved!")
+    })
 
-app.use('/', router)
+    socket.on('startBot', ({ source, pages, url, engines }) => {
+        store.setEngines(engines)
+        lifecycle.start({ source, pages, url, engines })
+    })
 
-// Socket setup
-const io = socket(server);
-store.setSocket(io)
-checkQueueFile()
-socketManager()
+    socket.on('addQueryToQueue', ({query, id_request, engine}) => {
+        addQueryToQueue({query, id_request, engine})
+    })
 
-// Frontend
-if (process.env.NODE_ENV === 'production') {
-    app.use(express.static(`${path.resolve()}/public/`));
-
-    app.get(/.*/, (_, res) => {
-        res.sendFile(`${path.resolve()}/public/index.html`);
+    socket.on('stopBot', () => {
+        lifecycle.stop()
     })
 }
+
+socketManager()
