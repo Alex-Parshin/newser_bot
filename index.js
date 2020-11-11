@@ -15,8 +15,9 @@ const host = process.env.SERVER_HOST
     // log(`Подключаюсь к сокет-серверу http://${host}:${port}`, 0);
 const socket = io.connect(`http://${host}:${port}`);
 
-socket.emit("who_am_i", 'puppeteer_bot');
 store.setSocket(socket);
+socket.emit("who_am_i", 'puppeteer_bot');
+
 log('Ожидаю команды СТАРТ', 0)
 
 lifecycle.mainQueue()
@@ -33,6 +34,11 @@ socket.on('restart', () => {
 
 socket.on("stop", () => {
     lifecycle.stop()
+})
+
+socket.on('getStatusToBot', () => {
+    const status = store.getStatus()
+    socket.emit('setStatus', status)
 })
 
 socket.on('disconnect', () => {
