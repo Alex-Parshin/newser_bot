@@ -12,12 +12,12 @@ import store from "./lib/core/state/stateManager";
 
 const port = process.env.SERVER_PORT
 const host = process.env.SERVER_HOST
-log(`Подключаюсь к сокет-серверу http://${host}:${port}`);
+    // log(`Подключаюсь к сокет-серверу http://${host}:${port}`, 0);
 const socket = io.connect(`http://${host}:${port}`);
 
 socket.emit("who_am_i", 'puppeteer_bot');
 store.setSocket(socket);
-log('Ожидаю команды СТАРТ')
+log('Ожидаю команды СТАРТ', 0)
 
 lifecycle.mainQueue()
 
@@ -27,7 +27,7 @@ socket.on("start", ({ source, pages, url, engines }) => {
 })
 
 socket.on('restart', () => {
-    log('Перезагружаю бота')
+    log('Перезагружаю бота', 0)
     process.exit(0)
 })
 
