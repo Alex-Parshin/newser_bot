@@ -15,8 +15,8 @@
 import io from "socket.io-client"; // Обработчик сокет-клиента
 import dotenv from "dotenv"; // Использование переменных окружения, указанных в .env файле
 dotenv.config();
-import { log } from './lib/core/utils/utils' // Функция логирования событий
-import lifecycle from "./lib/core/lifecycle.js"; // Класс жизненного цикла программы
+import { log } from './lib/core/utils' // Функция логирования событий
+import lifecycle from "./lib/core/lifecycle"; // Класс жизненного цикла программы
 import store from "./lib/core/store"; // Менеджер состояния приложения
 
 const port = process.env.SERVER_PORT; // Порт сервера
@@ -44,7 +44,7 @@ lifecycle.mainQueue(); // Запуск основного процесса ПО,
 socket.on("start", ({ source, pages, url, engines }) => {
     store.setEngines(engines); // Запись поисковых систем в менеджер состояния
     lifecycle.start({ source, pages, url, engines }); // Запуск процесса поиска новостей с передачей полученных параметров
-})
+});
 
 /** 
  * @description Прослушивание события restart с последующим вызовом соответсвующей функции класса Lifecycle 
@@ -52,7 +52,7 @@ socket.on("start", ({ source, pages, url, engines }) => {
  */
 socket.on('restart', () => {
     lifecycle.restart();
-})
+});
 
 /** 
  * @description Прослушивание события stop с последующим вызовом соответсвующей функции класса Lifecycle
@@ -60,7 +60,7 @@ socket.on('restart', () => {
  */
 socket.on("stop", () => {
     lifecycle.stop();
-})
+});
 
 /** 
  * @description Прослушивание события getStatusBot с последующим получением текущего статуса приложения из store
@@ -69,7 +69,7 @@ socket.on("stop", () => {
 socket.on('getStatusToBot', () => {
     const status = store.getStatus();
     socket.emit('setStatus', status);
-})
+});
 
 /** 
  * @description Прослушивание события disconnect с последующим выводом в консоль информации об отключении сервера
@@ -78,4 +78,4 @@ socket.on('getStatusToBot', () => {
 socket.on('disconnect', () => {
     console.log('Сервер отключился. Завершение работы'); // Вывод информации в лог
     process.exit(0);
-})
+});

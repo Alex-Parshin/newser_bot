@@ -7,7 +7,7 @@
         "test": "*.js"
     },
     "scripts": {
-        "start:dev": "node --experimental-modules --experimental-json-modules --es-module-specifier-resolution=node ."
+        "start:dev": "node --experimental-modules --experimental-json-modules --es-module-specifier-resolution=node --trace-warnings ."
     },
     "dependencies": {
         "@antiadmin/anticaptchaofficial": "^1.0.9",
