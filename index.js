@@ -13,7 +13,7 @@ import store from "./lib/core/state/stateManager";
 const port = process.env.SERVER_PORT
 const host = process.env.SERVER_HOST
 
-console.log(`Подключаюсь к сокет-серверу http://${host}:${port}`, 0);
+console.log(`Подключаюсь к сокет-серверу http://${host}:${port}`);
 
 const socket = io.connect(`http://${host}:${port}`);
 
